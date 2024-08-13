@@ -135,7 +135,7 @@
     "react-dom": "^18.2.0",
     "react-transition-group": "^2.2.1",
     "trim": "^1.0.1",
-    "url-join": "^1.1.0",
+    "url-join": "^5.0.0",
     "validator": "^13.6.0"
   },
   "ccu": {
